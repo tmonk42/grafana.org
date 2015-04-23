@@ -28,4 +28,5 @@ system. These are not maintained by any core Grafana team member and might be ou
 
 * [github.com/JonathanTron/chef-grafana](https://github.com/JonathanTron/chef-grafana)
 * [github.com/dzautner/grafana-cookbook](https://github.com/dzautner/grafana-cookbook)
+* [github.com/Nordstrom/grafana2-cookbook](https://github.com/Nordstrom/grafana2-cookbook)
 
